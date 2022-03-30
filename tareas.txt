@@ -1,0 +1,7 @@
+- Validar en la ruta registrar que no se repita el nombre de la disciplina.
+- En el front después de registrar limpiar el formulario.
+- Ruta Editar: En la búsqueda hecha por el findIndex si no consigue la disciplina a modificar mostrar un mensaje que no es 
+    posible la actualización.
+- Ruta Eliminar: En la búsqueda hecha por el findIndex si no consigue la disciplina a eliminar mostrar un mensaje que no es 
+    posible la eliminación.
+- Colocar un paso de confirmación antes de eliminar.
